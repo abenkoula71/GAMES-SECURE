@@ -1,0 +1,14 @@
+{
+    "games": [{
+            "name": "Pubg",
+            "img": "dfgdsf.png",
+            "categorie": "shooter"
+        },
+        {
+            "name": "Fortnite",
+            "img": "qsdsq.png",
+            "categorie": "shooter"
+        }
+
+    ]
+}
